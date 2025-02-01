@@ -3,5 +3,9 @@
 3.Şeker
 4. krema eklendi '.2.deneme
 
+<<<<<<< HEAD
 
 . bu duzgun versiyon 
+=======
+5. bu hata satırıdır
+>>>>>>> hata
