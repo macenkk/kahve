@@ -6,3 +6,6 @@
 vs code geçildi
 
 yenı kodlar bıutaya eklendı
+
+a
+artık yenı branchler klemeye basladık vs ıle
