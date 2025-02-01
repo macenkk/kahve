@@ -1,2 +1,3 @@
-kahve al
+1.Kahve al
 2. su
+3.Şeker
