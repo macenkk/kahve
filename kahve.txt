@@ -2,3 +2,5 @@
 2. su
 3.Şeker
 4. krema eklendi '.2.deneme
+
+5. bu hata satırıdır
