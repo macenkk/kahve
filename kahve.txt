@@ -5,3 +5,4 @@
 . bu duzgun versiyon 
 vs code geçildi
 
+yenı kodlar bıutaya eklendı
